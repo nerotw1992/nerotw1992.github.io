@@ -1,0 +1,44 @@
+/* { } 大括號 [ ] 中括號 ( )小括號 */
+H1 {
+    color: #54c53d;
+    font-size: 4rem;
+    /* writing-mode: vertical-rl; */
+}
+
+
+h2 {
+    color: red;
+    font-size: 20px;
+}
+
+p {
+    color: rgb(128, 70, 0);
+    font-size: 4rem;
+    /* writing-mode: vertical-lr; */
+    /* 直排左到右 */
+    /* writing-mode: vertical-rl; */
+    /* 直排右到左 */
+}
+#red {
+    color:red;
+}
+/* #ID 只有一個 */
+.text-lg {
+    font-size: 60px;
+}
+.text-blue{
+    color: blue;
+}
+/* .class */
+.text-yellow{
+    color: yellow;
+}
+div h3 {
+    color: red;
+}
+
+h3:hover {
+    color: red;
+    background-color: aquamarine;
+    /* h3懸停變色 */
+}
